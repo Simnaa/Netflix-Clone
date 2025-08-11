@@ -1,2 +1,3 @@
 # Netflix-Clone
-Netflix Clone using React
+
+Netflix Clone using React.
